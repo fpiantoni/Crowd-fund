@@ -1,4 +1,5 @@
-# Basic Sample Hardhat Project
+# Crowd Fund Project
+
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
@@ -13,3 +14,11 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+# Nice to have?:
+- Multi Token Contract?
+- Add beneficier
+- Add view function to access campaign status
+- Keep in mind ferund function (Maratea or Campo)
+
+# Test
